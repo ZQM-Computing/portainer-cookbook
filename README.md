@@ -35,6 +35,8 @@ Engineers who manage Docker hosts and stacks without living in the CLI.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-stack` | Deploying a first stack from the UI and from Compose |
